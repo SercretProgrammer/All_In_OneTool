@@ -10,3 +10,4 @@ Copy and Paste this into the Powershell:
 
 * ### OR
 #### Download the Tool.ps1 Then view the code then use it (Safest Option)
+#### Report Bugs and Suggest Some Ideas!
